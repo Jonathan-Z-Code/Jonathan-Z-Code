@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonathan-Z-Code
 - 👀 I’m interested in: Computers, Sports, and Food
 - 🌱 I’m currently studying Electrical Engineering at North Carolina State University
-- 💞️ I’m looking to collaborate on C projects 
+- 💞️ I’m looking to collaborate on Embedded Systems Projects (ESP32, STM32F4XX, Arduino, TI-MSP430)
 - 📫 How to reach me: jnzurita@ncsu.edu
 
 <!---
