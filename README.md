@@ -8,3 +8,6 @@
 Jonathan-Z-Code/Jonathan-Z-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Quick Links
+[ESP32-Rust-Sandbox](https://github.com/Jonathan-Z-Code/ESP32-Rust-Sandbox) <br/>
+[Arduino-Rust-Sandbox](https://github.com/Jonathan-Z-Code/Arduino-Rust-Sandbox)
